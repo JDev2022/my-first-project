@@ -24,3 +24,4 @@ Building | a table | with markdown
 ---|---|---
 *italic text* | **bold** | inline code
 42 | 400 | 97
+
